@@ -11,5 +11,5 @@ In this project the connections between clients and server is UDP based and the 
 + if the server with accept() method was waiting for new connection, the chat will be started; otherwise, client waits for more 30seconds and after that it should choose for another name or wait as a server for new requests.
 
 ### details
-+ using multi-thread option for UDP server implements Runnable Interface
++ using multi-thread option for TCP server implements Runnable Interface
 + DatagramPacket, DatagramSocket, Socket libraries 
