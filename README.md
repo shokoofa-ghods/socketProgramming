@@ -1,5 +1,5 @@
 ## socket Programming
-sample socket programming implementing UDP and TCP protocols with java
+sample socket programming implementing UDP and TCP protocols with Java
 
 In this project the connections between clients and server is UDP based and the conection between clients is TCP. 
 
